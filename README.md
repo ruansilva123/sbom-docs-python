@@ -1,5 +1,7 @@
 # Automatic SBOM Generation
 
+![Python Version](https://img.shields.io/badge/Python%20version-3.13-004975)
+
 The Software Bill of Materials is an inventory that lists all software components, including versions, licenses and dependencies.
 
 ## 📦 How to use
